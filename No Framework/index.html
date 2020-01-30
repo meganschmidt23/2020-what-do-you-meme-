@@ -1,0 +1,25 @@
+<!DOCTYPE html> <!--This is how you do a comment. How to translate your page, html5-->
+<html><!--Must have one root. Must have two tags. Nothing less-->
+  <head>
+    <meta charset="utf-8"><!--What characters you want to use, unicode-->
+    <meta name="viewport" content="width=device-width, initial-scale=1"><!--Important metatag about the webpage. This became popular when we started having cell phones. Phones shrink webpage browser to fit onto screen-->
+    <!--Telling webpage, we know they are using handheld device. Do not change it. Do not zoom-->
+    <title>Hello Bulma!</title><!--Shows up in the tab, used for searches, link to your page in a text-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css"><!--Bringing in style sheets, Bulma; put at top-->
+
+  </head><!--If it needs to be seen, cannot go in head-->
+  <body> <!--If you want to see it, it goes in this section. Browser will try to fix it, if you put in wrong section-->
+  <section class="section">
+    <div class="container">
+      <h1 class="title">
+        Hello World
+      </h1>
+      <p class="subtitle">
+        My first website with <strong>Bulma</strong>!
+      </p>
+    </div>
+  </section>
+  <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script><!--defer-only load javascript until rest of page is loaded. Move this to bottom-->
+  <!--CSS is better for fontawesome; you get icons from this. Works better together with other librarys-->
+  </body>
+</html>
