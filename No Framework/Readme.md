@@ -1,6 +1,6 @@
 #Megan Schmidt :dancer:
 
-![Picture of Megan](https://www.facebook.com/photo.php?fbid=2332068833741049&set=a.1876205789327358&type=3&theater)
+![Picture of Megan](IMG_0283.jpg)
 
 Currently, my computer experience is very limited. I attended New Paltz as a math undergrad, and I took CS1 here with Professor Easwaran. In my Linear Algebra course, we did some work in Python, and I also took the Data Science course with Professor Brattain. In Data Science, we mainly used Python, but we touched briefly upon Tableau. In the required master’s Database course, I created a database project, but other than that, I do not have any projects that I’ve worked on. 
 
