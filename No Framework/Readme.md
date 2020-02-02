@@ -1,4 +1,6 @@
-#Megan Schmidt :dancer:
+Megan Schmidt
+
+:dancer:
 
 ![Picture of Megan](IMG_0283.jpg)
 
