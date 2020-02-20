@@ -3,6 +3,8 @@ const app = express();
 const port = 3000;
 
 app
-    .get('/', (req, res) => res.send('Hello World!'));
+    .get('/', (req, res) => res.send('This class is awesome!') );
+
+
 
 app.listen(port, () => console.log(`Listening at http://localhost:${port}`));
